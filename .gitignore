@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+generated_video/
+
+out_with_detection_and_recognition/
+
+video/
+
+video_for_test/ 
+
+video_output/ 
